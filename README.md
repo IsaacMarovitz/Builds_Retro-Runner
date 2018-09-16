@@ -1,5 +1,4 @@
-# Builds_Retro-Runner
-Builds for Retro Runner
+# Builds for Retro Runner
 
 -Mac Installation-
 
